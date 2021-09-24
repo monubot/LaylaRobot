@@ -21,6 +21,9 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FQueenArzoo%2FLaylaRobot&template=https%3A%2F%2Fgithub.com%2FQueenArzoo%2FLaylaRobot)
 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/monubot/LaylaRobot">
+  <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
+
 
 
 </details>  
