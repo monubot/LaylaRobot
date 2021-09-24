@@ -74,9 +74,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello, I'M Layla
+Hello, I'M Moon Bot
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help
-Maintained by @HEROGAMERS1 ❤
+Maintained by [Moon Bot](https://t.me/inimonbot) 
 """
 
 buttons = [
@@ -91,9 +91,9 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/laylalogs"),
+        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/chmoonbot"),
         InlineKeyboardButton(
-            text="ꜰᴇᴅᴇʀᴀᴛɪᴏɴ", url=f"https://t.me/AntiRippingOrganization/410"
+            text="ᴏᴡɴᴇʀ", url=f"https://t.me/monubor"
         ),
     ],
     [
@@ -103,9 +103,9 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hi.. I'M` Layla
+`Hi.. I'M` Moon Bot
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`
-Powered by :- [Awesome Bots](t.me/Laylalist)"""
+"""
 
 layla_IMG = "https://telegra.ph/file/524b78577a42b02b2f074.jpg"
 
